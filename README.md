@@ -18,7 +18,7 @@ This document and associated codebase exists in the form of a Jupyter Notebook w
 
 ## Downloading the Dataset
 
-It is not required to download the raw data set for the program to function, as the program should pull the aforementioned database from Kaggle automatically and save it locally as `raw.csv`. The program does not currently support caching of any kind.
+It needs to be downloaded so that the raw data can be pulled. The data is in `car_details_v4.csv`, and should not be changed.
 
 ## Running the Notebook
 
